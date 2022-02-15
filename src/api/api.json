@@ -1,0 +1,254 @@
+
+{
+  "movies": [
+      {
+          "adult": false,
+          "backdrop_path": "/c2cb0lLvbzvHlSUo35W8CfP0kYO.jpg",
+          "genre_ids": [
+              53
+          ],
+          "id": 714968,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Plan A",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 156.08,
+          "poster_path": "/dfYOmisdbiVTXdcQji35pKywPFI.jpg",
+          "release_date": "2021-08-16",
+          "title": "Plan A",
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 35
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/sdL37sfUBth7mdkAolI83bXAl7L.jpg",
+          "genre_ids": [
+              16,
+              878,
+              10751,
+              35
+          ],
+          "id": 482321,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Ron's Gone Wrong",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 563.182,
+          "poster_path": "/7M0uwPgwvPONdFG0jk8TPK09xJU.jpg",
+          "release_date": "2021-10-15",
+          "title": "Ron's Gone Wrong",
+          "video": false,
+          "vote_average": 8.2,
+          "vote_count": 847
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/2oxlor4lQrP2JX40ammAQdOqkEQ.jpg",
+          "genre_ids": [
+              53,
+              80,
+              878,
+              9648
+          ],
+          "id": 17532,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "S. Darko",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 17.043,
+          "poster_path": "/aRYrV4EloKRgv0lCqzGtXFt3dXn.jpg",
+          "release_date": "2009-04-28",
+          "title": "S. Darko",
+          "video": false,
+          "vote_average": 4.2,
+          "vote_count": 352
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/eM9MZ1dhDCbRzwQg0FWpWWtLPMn.jpg",
+          "genre_ids": [
+              10752,
+              28,
+              18
+          ],
+          "id": 390054,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Sand Castle",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 43.712,
+          "poster_path": "/c9buG2jVRgAu68E4D4jpwlgqhO1.jpg",
+          "release_date": "2017-04-21",
+          "title": "Sand Castle",
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 593
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/iP0capCU4w5nxCDl398CH7yR1r9.jpg",
+          "genre_ids": [
+              12,
+              14,
+              28
+          ],
+          "id": 9543,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Prince of Persia: The Sands of Time",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 96.994,
+          "poster_path": "/lkp1GFmWyf7k2WKvKIQuuGyichI.jpg",
+          "release_date": "2010-05-19",
+          "title": "Prince of Persia: The Sands of Time",
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 5676
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg",
+          "genre_ids": [
+              35,
+              18,
+              878
+          ],
+          "id": 646380,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Don't Look Up",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 306.013,
+          "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+          "release_date": "2021-12-07",
+          "title": "Don't Look Up",
+          "video": false,
+          "vote_average": 7.3,
+          "vote_count": 4433
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg",
+          "genre_ids": [
+              53,
+              27
+          ],
+          "id": 482373,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Don't Breathe 2",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 236.437,
+          "poster_path": "/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg",
+          "release_date": "2021-08-12",
+          "title": "Don't Breathe 2",
+          "video": false,
+          "vote_average": 7.5,
+          "vote_count": 1436
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/7ANVSRoyytu28zGOSXafMk0WbZM.jpg",
+          "genre_ids": [
+              80,
+              18,
+              53
+          ],
+          "id": 340677,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "I.T.",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 18.562,
+          "poster_path": "/A5VrX0pzM2pnPNXwKO3jKTt35ux.jpg",
+          "release_date": "2016-09-09",
+          "title": "I.T.",
+          "video": false,
+          "vote_average": 5.4,
+          "vote_count": 504
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/2W1AA5qZXJrR7MJXUgqj49JsLYy.jpg",
+          "genre_ids": [
+              10752,
+              18,
+              28,
+              53
+          ],
+          "id": 3536,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "U-571",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 22.012,
+          "poster_path": "/yeUhRSrlFcXhsuUai2ozWH6rNnK.jpg",
+          "release_date": "2000-04-20",
+          "title": "U-571",
+          "video": false,
+          "vote_average": 6.4,
+          "vote_count": 907
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/pHE7QBIm7LqDeMiNC3BWdfPJxwr.jpg",
+          "genre_ids": [
+              53
+          ],
+          "id": 10155,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "U Turn",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 18.24,
+          "poster_path": "/lffvjJU8j7RLfz1SJVMfrn2wH6i.jpg",
+          "release_date": "1997-10-03",
+          "title": "U Turn",
+          "video": false,
+          "vote_average": 6.6,
+          "vote_count": 520
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/5AijK8OxcTzuT8z6aEcc3kO96eG.jpg",
+          "genre_ids": [
+              80,
+              18
+          ],
+          "id": 470044,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "The Hate U Give",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 28.405,
+          "poster_path": "/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+          "release_date": "2018-10-19",
+          "title": "The Hate U Give",
+          "video": false,
+          "vote_average": 8.3,
+          "vote_count": 1707
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/nVOTbGAoR1DSNCsAGjeDHFgiKN2.jpg",
+          "genre_ids": [
+              53,
+              80,
+              28
+          ],
+          "id": 11808,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "U.S. Marshals",
+          "overview": "Set during the occupation of Iraq, a squad of U.S. soldiers try to protect a small village.",
+          "popularity": 24.871,
+          "poster_path": "/5ST0BydDSXtW5AtfDDhTVS13pTt.jpg",
+          "release_date": "1998-03-06",
+          "title": "U.S. Marshals",
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 1180
+      }
+  ]
+}
